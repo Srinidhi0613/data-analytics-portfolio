@@ -20,6 +20,6 @@ Key Highlights:
 ->Annual members ride more frequently during commute hours
 -> Strong weekday vs weekend behavior differences
 
-👉 [View Tableau Dashboard](https://public.tableau.com/views/CyclisticBikeshareusagemembervscasualriders/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+=> [View Tableau Dashboard](https://public.tableau.com/views/CyclisticBikeshareusagemembervscasualriders/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-👉 [Project Details](Cyclistic-Bike-Share-Analysis/)
+=>[Project Details](Cyclistic-Bike-Share-Analysis/)
