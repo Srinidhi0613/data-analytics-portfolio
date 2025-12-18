@@ -4,10 +4,10 @@ Hi! I’m an aspiring Data Analyst with hands-on experience in data cleaning, an
 This portfolio showcases my end-to-end data analysis projects with business-focused insights.
 
 ## Tools & Skills
-.Tableau (Dashboards, Calculated Fields)
-.Excel (Data Cleaning, Formulas)
-.SQL (Basics)
-.Data Visualization & Storytelling
+1)Tableau (Dashboards, Calculated Fields)
+2)Excel (Data Cleaning, Formulas)
+3)SQL (Basics)
+4)Data Visualization & Storytelling
 
 ## Projects
 
